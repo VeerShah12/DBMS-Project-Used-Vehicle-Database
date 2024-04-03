@@ -1,2 +1,2 @@
-# InhDB
-InterestHaven savings indicator database
+# DBMS Project: Used Vehicle Database
+
