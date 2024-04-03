@@ -1,0 +1,400 @@
+vehicle_id,manufacturer_id,type_id,vehicle_name
+C1,M1,V1,Maruti Suzuki Swift [2017-2021] ZXi Plus
+C2,M2,V1,Hyundai i10 [2010-2016] Magna Petrol
+C3,M1,V1,Maruti Suzuki Celerio [2014-2021] VXi AMT
+C4,M1,V1,Maruti Suzuki Wagon R 1.0 [2010-2019] VXI
+C5,M3,V1,JEEP Compass [2017-2021] Longitude (O) 2.0 Diesel
+C6,M2,V1,Hyundai Xcent [2017-2019] S AT Petrol
+C7,M2,V1,Hyundai Elite i20 [2014-2018] Asta 1.4 CRDI (O)
+C8,M4,V1,Honda Amaze [2013-2018] 1.2 VX AT i-VTEC
+C9,M5,V1,Toyota Etios Liva [2010-2017] V
+C10,M1,V1,Maruti Suzuki Alto 800 Vxi Plus
+C11,M1,V1,Maruti Suzuki Ciaz [2017-2018] Alpha AT
+C12,M6,V1,Ford EcoSport [2015-2017] Titanium 1.5L Ti-VCT
+C13,M2,V1,Hyundai Venue SX 1.0  Turbo
+C14,M7,V1,Renault Kiger RXZ AMT Dual Tone
+C15,M1,V1,Maruti Suzuki Ciaz Alpha Petrol
+C16,M2,V1,Hyundai Elite i20 [2014-2018] Asta 1.2
+C17,M1,V1,Maruti Suzuki Celerio [2014-2021] ZXi (O) AMT
+C18,M2,V1,Hyundai New i20 Asta 1.0 Turbo IMT
+C19,M6,V1,Ford Figo [2019-2021] Titanium Diesel
+C20,M1,V1,Maruti Suzuki Baleno [2015-2019] Zeta AT Petrol
+C21,M8,V1,Volkswagen Polo [2010-2014] Comfortline 1.2L (P)
+C22,M9,V1,Nissan Magnite XV Premium Turbo (O)
+C23,M5,V1,Toyota Etios Liva [2010-2017] V
+C24,M1,V1,Maruti Suzuki Dzire [2017-2020] ZXi Plus AMT
+C25,M2,V1,Hyundai i10 [2010-2016] Sportz 1.2 Petrol
+C26,M1,V1,Maruti Suzuki Dzire VXI
+C27,M10,V1,Kia Seltos GTX Plus
+C28,M2,V1,Hyundai Elite i20 [2014-2018] Asta 1.2 (O)
+C29,M1,V1,Maruti Suzuki Ciaz [2014-2017] ZXI+
+C30,M11,V1,Datsun Redi-GO [2015-2019] T (O)
+C31,M7,V1,Renault Duster [2012-2015] 85 PS RxL (Opt)
+C32,M7,V1,Renault Kwid [2015-2019] 1.0 RXT Opt
+C33,M1,V1,Maruti Suzuki Ritz [2009-2012] VXI
+C34,M12,V1,Tata Harrier XZA Plus Dark Edition AT
+C35,M6,V1,Ford Figo [2019-2021] Titanium Diesel
+C36,M1,V1,Maruti Suzuki Ciaz Alpha AT Petrol
+C37,M2,V1,Hyundai i20 Active [2015-2020] 1.2 SX
+C38,M2,V1,Hyundai Xcent [2017-2019] SX Petrol
+C39,M1,V1,Maruti Suzuki Ritz [2012-2017] Zxi
+C40,M1,V1,Maruti Suzuki Ritz [2012-2017] Zxi
+C41,M2,V1,Hyundai i20 [2012-2014] Asta 1.2
+C42,M1,V1,Maruti Suzuki Alto K10 [2014-2019] VXi (O)
+C43,M2,V1,Hyundai Venue [2019-2021] SX 1.0 (O) Turbo
+C44,M4,V1,Honda City V
+C45,M2,V1,Hyundai Elite i20 [2018-2020] Sportz Plus 1.2
+C46,M2,V1,Hyundai i10 [2010-2016] Sportz 1.2 Petrol
+C47,M2,V1,Hyundai Xcent [2017-2019] SX (O) Petrol
+C48,M1,V1,Maruti Suzuki Swift Dzire [2012-2017] VXI AT
+C49,M1,V1,Maruti Suzuki Ciaz Alpha(Petrol)
+C50,M2,V1,Hyundai Eon [2011-2018] Era +
+C51,M1,V1,Maruti Suzuki Swift Dzire [2012-2017] ZXI
+C52,M2,V1,Hyundai Creta [2015-2018] 1.6 SX Plus Petrol
+C53,M2,V1,Hyundai Verna SX Opt IVT Petrol
+C54,M2,V1,Hyundai Elite i20 [2017-2018] Magna Executive 1.2
+C55,M1,V1,Maruti Suzuki Celerio ZXi AMT
+C56,M1,V1,Maruti Suzuki Celerio [2014-2021] ZXi AMT
+C57,M2,V1,Hyundai Elite i20 [2014-2018] Sportz 1.2
+C58,M1,V1,Maruti Suzuki Ciaz Alpha(Petrol)
+C59,M1,V1,Maruti Suzuki Dzire ZXI
+C60,M2,V1,Hyundai Eon [2011-2018] Era + SE
+C61,M12,V1,Tata Altroz XE 1.5
+C62,M2,V1,Hyundai Grand i10 [2017-2020] Magna 1.2 Kappa VTVT
+C63,M1,V1,Maruti Suzuki Celerio [2014-2021] VXi AMT
+C64,M1,V1,Maruti Suzuki Ciaz Alpha Petrol
+C65,M4,V1,Honda WR-V i-DTEC VX
+C66,M2,V1,Hyundai Grand i10 [2013-2017] Asta 1.2 Kappa VTVT
+C67,M2,V1,Hyundai Xcent [2014-2017] SX (O) Petrol
+C68,M1,V1,Maruti Suzuki Dzire [2017-2020] VXI AMT
+C69,M4,V1,Honda City ZX CVT
+C70,M13,V1,Mahindra Scorpio [2014-2017] S4 Plus
+C71,M5,V1,Toyota Yaris [2018-2021] VX CVT
+C72,M10,V1,Kia Seltos GTX Plus
+C73,M2,V1,Hyundai i10 [2010-2016] Sportz Petrol
+C74,M2,V1,Hyundai Elite i20 [2018-2020] Asta 1.2
+C75,M2,V1,Hyundai Creta [2015-2018] 1.6 SX Plus Auto Petrol
+C76,M2,V1,Hyundai Verna [2011-2015] Fluidic 1.6 CRDi SX
+C77,M1,V1,Maruti Suzuki Ertiga [2015-2018] ZDI + SHVS
+C78,M1,V1,Maruti Suzuki S-Presso VXI+
+C79,M1,V1,Maruti Suzuki Omni [2011-2019] 5 STR BS-IV
+C80,M2,V1,Hyundai Elite i20 [2014-2018] Asta 1.2 (O)
+C81,M4,V1,Honda City V
+C82,M2,V1,Hyundai i10 [2010-2016] Magna 1.2 Petrol
+C83,M5,V1,Toyota Yaris [2018-2021] VX CVT
+C84,M6,V1,Ford Figo [2019-2021] Titanium Diesel
+C85,M12,V1,Tata Zest [2014-2019] XT Petrol
+C86,M1,V1,Maruti Suzuki Celerio [2014-2021] VXi AMT
+C87,M14,V1,MG Motors Hector 2.0 Sharp
+C88,M1,V1,Maruti Suzuki Baleno [2019-2022] Zeta AT Petrol
+C89,M13,V1,Mahindra XUV500 [2015-2018] W10
+C90,M5,V1,Toyota Glanza [2019-2022] G
+C91,M1,V1,Maruti Suzuki Baleno [2019-2022] Alpha Petrol
+C92,M7,V1,Renault Kwid 1.0 RXT Opt
+C93,M12,V1,Tata Altroz XZ 1.2
+C94,M1,V1,Maruti Suzuki Wagon R 1.0 [2010-2019] VXI
+C95,M8,V1,Volkswagen Vento [2015-2019] Highline Petrol AT
+C96,M3,V1,JEEP Compass [2017-2021] Limited 2.0 Diesel 4x4
+C97,M2,V1,Hyundai Grand i10 [2013-2017] Asta AT 1.2 Kappa VTVT
+C98,M6,V1,Ford Figo [2015-2019] Titanium1.5 TDCi
+C99,M7,V1,Renault Duster [2015-2019] 110 PS RXL 4X2 MT
+C100,M2,V1,Hyundai Verna [2011-2015] Fluidic 1.6 VTVT SX
+C101,M14,V1,MG Motors Hector 2.0 Sharp
+C102,M2,V1,Hyundai Xcent [2014-2017] SX AT (O) Petrol
+C103,M4,V1,Honda WR-V i-DTEC VX
+C104,M1,V1,Maruti Suzuki Ritz [2012-2017] Vxi
+C105,M8,V1,Volkswagen Jetta [2013-2017] Comfortline TDI
+C106,M2,V1,Hyundai Elite i20 [2018-2020] Asta 1.2
+C107,M6,V1,Ford EcoSport [2015-2017] Titanium 1.5L Ti-VCT
+C108,M1,V1,Maruti Suzuki Wagon R 1.0 [2010-2019] LXI
+C109,M2,V1,Hyundai Elite i20 [2014-2018] Asta 1.2 (O)
+C110,M5,V1,Toyota Etios [2010-2017] G
+C111,M2,V1,Hyundai Creta [2015-2018] 1.6 SX Plus Auto
+C112,M6,V1,Ford EcoSport [2015-2017] Titanium 1.5L Ti-VCT AT
+C113,M4,V1,Honda Brio [2011-2016] V MT
+C114,M5,V1,Toyota Glanza [2019-2022] G
+C115,M2,V1,Hyundai Elite i20 [2014-2018] Sportz 1.4 CRDI
+C116,M2,V1,Hyundai Elite i20 [2014-2018] Asta 1.2 (O)
+C117,M7,V1,Renault Kiger RXT MT Dual Tone
+C118,M5,V1,Toyota Etios Liva [2017-2020] VX Dual Tone
+C119,M2,V1,Hyundai Elite i20 [2018-2020] Asta 1.2
+C120,M7,V1,Renault Kwid [2015-2019] RXT Opt
+C121,M6,V1,Ford EcoSport [2013-2015] Titanium 1.0L Ecoboost
+C122,M2,V1,Hyundai Venue [2019-2022] SX Plus 1.0 Turbo DCT
+C123,M2,V1,Hyundai Elite i20 [2018-2020] Sportz 1.2
+C124,M1,V1,Maruti Suzuki Baleno [2019-2022] Zeta AT Petrol
+C125,M6,V1,Ford Figo [2019-2021] Titanium Diesel
+C126,M2,V1,Hyundai i20 [2012-2014] Sportz 1.2
+C127,M12,V1,Tata Harrier XZ Dual Tone
+C128,M1,V1,Maruti Suzuki S-Presso VXI+
+C129,M8,V1,Volkswagen Ameo [2016-2020] Highline1.2L (P)
+C130,M2,V1,Hyundai Elite i20 [2014-2018] Sportz 1.2
+C131,M2,V1,Hyundai Elite i20 [2014-2018] Asta 1.4 CRDI
+C132,M2,V1,Hyundai Elite i20 [2014-2018] Asta 1.2
+C133,M4,V1,Honda City V
+C134,M4,V1,Honda City [2017-2020] VX
+C135,M2,V1,Hyundai Elite i20 [2018-2020] Asta 1.2
+C136,M2,V1,Hyundai Elite i20 [2014-2018] Asta 1.2
+C137,M6,V1,Ford EcoSport [2013-2015] Titanium 1.5L TDCi
+C138,M5,V1,Toyota Etios Liva [2010-2017] G
+C139,M4,V1,Honda Mobilio [2014-2017] V Petrol
+C140,M14,V1,MG Motors Hector 2.0 Sharp
+C141,M14,V1,MG Motors Hector 1.5 Sharp DCT AT
+C142,M1,V1,Maruti Suzuki Swift [2011-2017] ZDi
+C143,M7,V1,Renault Triber RXZ
+C144,M7,V1,Renault Kwid 1.0 RXT Opt
+C145,M2,V1,Hyundai Elite i20 [2014-2018] Sportz 1.2
+C146,M10,V1,Kia Seltos GTX Plus DCT
+C147,M2,V1,Hyundai Venue S 1.2
+C148,M7,V1,Renault Captur [2017-2020] RXT Dual Tone
+C149,M2,V1,Hyundai Verna [2011-2015] Fluidic 1.6 VTVT SX Opt
+C150,M6,V1,Ford Freestyle [2017-2021] Titanium 1.2
+C151,M5,V1,Toyota Yaris [2018-2021] VX CVT
+C152,M2,V1,Hyundai Elite i20 [2018-2020] Sportz 1.2
+C153,M14,V1,MG Motors Hector 2.0 Sharp
+C154,M1,V1,Maruti Suzuki Celerio [2014-2021] ZXi (O)
+C155,M2,V1,Hyundai Xcent [2014-2017] SX (O) Petrol
+C156,M2,V1,Hyundai i10 [2010-2016] Era Petrol
+C157,M4,V1,Honda Amaze [2013-2018] 1.2 VX i-VTEC
+C158,M14,V1,MG Motors Hector 2.0 Sharp
+C159,M7,V1,Renault Kwid RXL
+C160,M12,V1,Tata Tiago [2016-2020] Revotron XT
+C161,M2,V1,Hyundai Venue SX 1.0  Turbo
+C162,M7,V1,Renault Kwid 1.0 RXT Opt
+C163,M2,V1,Hyundai Elite i20 [2014-2018] Asta 1.2 Dual Tone
+C164,M1,V1,Maruti Suzuki Celerio [2014-2021] VXi AMT
+C165,M4,V1,Honda Jazz [2015-2020] SV MT
+C166,M6,V1,Ford EcoSport [2017-2021] Titanium 1.5L Ti-VCT
+C167,M2,V1,Hyundai New i20 Asta (O) 1.2 MT
+C168,M2,V1,Hyundai Elite i20 [2014-2018] Asta 1.2 (O)
+C169,M2,V1,Hyundai Grand i10 [2017-2020] Sportz 1.2 Kappa VTVT
+C170,M4,V1,Honda Mobilio [2014-2017] S Petrol
+C171,M1,V1,Maruti Suzuki Vitara Brezza [2018-2020] ZDI PLUS AT Dual Tone
+C172,M2,V1,Hyundai Creta [2015-2018] 1.6 SX Plus Auto
+C173,M1,V1,Maruti Suzuki Swift VXI AMT
+C174,M1,V1,Maruti Suzuki Wagon R 1.0 [2015-2019] VXI AMT
+C175,M7,V1,Renault Captur [2017-2020] RXT Dual Tone
+C176,M4,V1,Honda Jazz [2015-2020] S AT
+C177,M8,V1,Volkswagen Vento [2010-2015] Highline Petrol AT
+C178,M7,V1,Renault Duster [2015-2019] 110 PS RXL 4X2 MT
+C179,M7,V1,Renault Kwid [2015-2019] RXE
+C180,M6,V1,Ford Figo [2019-2021] Titanium Diesel
+C181,M2,V1,Hyundai Creta [2015-2018] 1.6 SX Plus Auto Petrol
+C182,M2,V1,Hyundai i20 Active [2015-2020] 1.2 SX
+C183,M6,V1,Ford Freestyle [2017-2021] Titanium 1.2
+C184,M1,V1,Maruti Suzuki Ciaz Alpha Petrol
+C185,M1,V1,Maruti Suzuki Wagon R 1.0 [2010-2019] VXI
+C186,M6,V1,Ford Figo [2019-2021] Titanium Diesel
+C187,M2,V1,Hyundai Santro Xing [2007-2014] GLS
+C188,M4,V1,Honda Jazz [2015-2020] SV MT
+C189,M4,V1,Honda Jazz V MT
+C190,M2,V1,Hyundai Elite i20 [2014-2018] Sportz 1.4 CRDI
+C191,M7,V1,Renault Duster [2012-2015] 85 PS RxL (Opt)
+C192,M13,V1,Mahindra Scorpio [2014-2017] S10
+C193,M1,V1,Maruti Suzuki Celerio [2014-2021] VXi
+C194,M2,V1,Hyundai Xcent [2014-2017] S Petrol
+C195,M1,V1,Maruti Suzuki Dzire [2017-2020] ZXi Plus
+C196,M4,V1,Honda Jazz VX MT
+C197,M1,V1,Maruti Suzuki Swift [2007-2011] VXi
+C198,M6,V1,Ford EcoSport [2017-2020] Titanium + 1.5L Ti-VCT AT
+C199,M2,V1,Hyundai i10 [2010-2016] Sportz Petrol
+B1,M15,V2,Bajaj Pulsar 220cc
+B2,M15,V2,Bajaj Avenger 220cc
+B3,M16,V2,Hero CBZ Xtreme 150cc
+B4,M15,V2,Bajaj Avenger Street 220
+B5,M16,V2,Hero HF Deluxe 100cc
+B6,M17,V2,KTM RC 390cc
+B7,M18,V2,TVS Apache RTR 180cc
+B8,M4,V2,Honda CB Trigger 150cc
+B9,M4,V2,Honda CB Trigger 150cc
+B10,M19,V2,Royal Enfield Classic 350cc
+B11,M19,V2,Royal Enfield Bullet Electra 350cc
+B12,M15,V2,Bajaj Avenger 220cc
+B13,M15,V2,Bajaj Avenger 220cc
+B14,M15,V2,Bajaj Avenger Street 220
+B15,M15,V2,Bajaj Avenger Street 220
+B16,M20,V2,Yamaha YZF-R15 2.0 150cc
+B17,M15,V2,Bajaj Pulsar 150cc
+B18,M18,V2,TVS Apache RTR 180cc
+B19,M15,V2,Bajaj Discover 100cc
+B20,M21,V2,Suzuki Zeus 125cc
+B21,M21,V2,Suzuki Slingshot Plus 125cc
+B22,M15,V2,Bajaj Pulsar NS200
+B23,M20,V2,Yamaha FZ 150cc
+B24,M15,V2,Bajaj Avenger 220cc
+B25,M15,V2,Bajaj Pulsar NS200
+B26,M15,V2,Bajaj Avenger Street 220
+B27,M4,V2,Honda CB Hornet 160R STD
+B28,M16,V2,Hero Super Splendor 125cc
+B29,M15,V2,Bajaj Avenger Street 220
+B30,M15,V2,Bajaj Pulsar 150cc
+B31,M19,V2,Royal Enfield Thunderbird X 350cc
+B32,M20,V2,Yamaha FZ 150cc
+B33,M20,V2,Yamaha Fazer 150cc
+B34,M15,V2,Bajaj Pulsar 150cc
+B35,M16,V2,Hero Passion Pro 100cc
+B36,M15,V2,Bajaj Pulsar 150cc
+B37,M15,V2,Bajaj Dominar 400 ABS
+B38,M20,V2,Yamaha Fazer 25 250cc
+B39,M16,V2,Hero Passion 100cc
+B40,M19,V2,Royal Enfield Standard 500cc
+B41,M16,V2,Hero Hunk Rear Disc 150cc
+B42,M15,V2,Bajaj Avenger Street 220
+B43,M15,V2,Bajaj Platina  Alloy ES-100cc
+B44,M16,V2,Hero Super Splendor 125cc
+B45,M16,V2,Hero Super Splendor 125cc
+B46,M20,V2,Yamaha YZF-R15 2.0 150cc
+B47,M19,V2,Royal Enfield Classic 350cc
+B48,M16,V2,Hero Glamour 125cc
+B49,M15,V2,Bajaj Pulsar 150cc
+B50,M16,V2,Hero Passion Plus 100cc
+B51,M18,V2,TVS Sport 100cc
+B52,M16,V2,Hero CBZ Xtreme 150cc
+B53,M19,V2,Royal Enfield Classic Gunmetal Grey 350cc
+B54,M4,V2,Honda CB Trigger 150cc
+B55,M19,V2,Royal Enfield Bullet Electra 350cc
+B56,M16,V2,Hero CD Deluxe 100cc
+B57,M16,V2,Hero Passion Pro 100cc
+B58,M20,V2,Yamaha FZ 150cc
+B59,M16,V2,Hero Passion Pro 100cc
+B60,M15,V2,Bajaj Pulsar 150cc
+B61,M20,V2,Yamaha SZ-RR 150cc
+B62,M16,V2,Hero Passion Pro 100cc
+B63,M22,V2,Harley-Davidson Street 750 ABS
+B64,M16,V2,Hero Passion 100cc
+B65,M16,V2,Hero CD Deluxe 100cc
+B66,M4,V2,Honda CB Shine 125cc
+B67,M19,V2,Royal Enfield Thunderbird 350cc
+B68,M15,V2,Bajaj Avenger Street 220
+B69,M17,V2,KTM RC 390cc
+B70,M16,V2,Hero Passion Pro 100cc
+B71,M16,V2,Hero Passion Pro 100cc
+B72,M15,V2,Bajaj Pulsar 150cc
+B73,M20,V2,Yamaha Fazer 25 250cc
+B74,M15,V2,Bajaj Pulsar 150cc
+B75,M15,V2,Bajaj Avenger Street 220
+B76,M16,V2,Hero CBZ Xtreme 150cc
+B77,M16,V2,Hero Hunk 150cc
+B78,M4,V2,Honda CB Hornet 160R STD
+B79,M15,V2,Bajaj Pulsar AS150
+B80,M15,V2,Bajaj Pulsar 150cc
+B81,M19,V2,Royal Enfield Bullet Electra 350cc
+B82,M18,V2,TVS Victor 110cc Disc SBT
+B83,M15,V2,Bajaj Pulsar NS200
+B84,M19,V2,Royal Enfield Classic 350cc
+B85,M15,V2,Bajaj Dominar 400 ABS
+B86,M15,V2,Bajaj Avenger Street 220
+B87,M19,V2,Royal Enfield Thunderbird 350cc
+B88,M15,V2,Bajaj Avenger 220cc
+B89,M16,V2,Hero Super Splendor 125cc
+B90,M15,V2,Bajaj Platina  Alloy ES-100cc
+B91,M15,V2,Bajaj Dominar 400 ABS
+B92,M18,V2,TVS Apache RTR 160cc
+B93,M16,V2,Hero Passion 100cc
+B94,M16,V2,Hero Passion Pro 100cc
+B95,M19,V2,Royal Enfield Classic 350cc
+B96,M18,V2,TVS Apache RTR 180cc
+B97,M19,V2,Royal Enfield Classic 350cc
+B98,M22,V2,Harley-Davidson Street 750
+B99,M21,V2,Suzuki Slingshot Plus 125cc
+B100,M16,V2,Hero Super Splendor 125cc
+B101,M15,V2,Bajaj Pulsar 220cc
+B102,M15,V2,Bajaj Avenger 220cc
+B103,M20,V2,Yamaha Fazer 150cc
+B104,M15,V2,Bajaj Avenger Street 220
+B105,M16,V2,Hero Passion 100cc
+B106,M16,V2,Hero Passion Pro 100cc
+B107,M15,V2,Bajaj Avenger 220cc
+B108,M4,V2,Honda CB Trigger 150cc
+B109,M4,V2,Honda CB Trigger 150cc
+B110,M15,V2,Bajaj Avenger Street 220
+B111,M15,V2,Bajaj Avenger 220cc
+B112,M16,V2,Hero Karizma ZMR 223cc
+B113,M4,V2,Honda CB Trigger 150cc
+B114,M15,V2,Bajaj Avenger Cruise 220
+B115,M18,V2,TVS Apache RTR 180cc
+B116,M20,V2,Yamaha YZF-R15 2.0 150cc
+B117,M19,V2,Royal Enfield Classic 350cc
+B118,M4,V2,Honda CB Shine 125cc Disc
+B119,M16,V2,Hero CD Deluxe 100cc
+B120,M16,V2,Hero CD Deluxe 100cc
+B121,M15,V2,Bajaj Avenger 220cc
+B122,M20,V2,Yamaha FZ 150cc
+B123,M4,V2,Honda CB Hornet 160R STD
+B124,M15,V2,Bajaj Avenger Street 220
+B125,M21,V2,Suzuki Zeus 125cc
+B126,M21,V2,Suzuki Slingshot Plus 125cc
+B127,M15,V2,Bajaj Pulsar 150cc
+B128,M15,V2,Bajaj Pulsar NS200
+B129,M16,V2,Hero Passion Pro 100cc
+B130,M15,V2,Bajaj Pulsar 150cc
+B131,M4,V2,Honda CB Hornet 160R STD
+B132,M19,V2,Royal Enfield Bullet Electra 350cc
+B133,M16,V2,Hero Passion Pro 100cc
+B134,M15,V2,Bajaj Avenger Street 150
+B135,M16,V2,Hero Passion Pro 100cc
+B136,M15,V2,Bajaj Avenger Street 220
+B137,M15,V2,Bajaj Avenger Street 220
+B138,M16,V2,Hero Passion 100cc
+B139,M15,V2,Bajaj Avenger Street 220
+B140,M16,V2,Hero CBZ Xtreme 150cc
+B141,M20,V2,Yamaha YZF-R15 2.0 150cc
+B142,M20,V2,Yamaha FZs 150cc
+B143,M16,V2,Hero CBZ Xtreme 150cc
+B144,M15,V2,Bajaj Avenger Street 220
+B145,M15,V2,Bajaj Avenger 220cc
+B146,M15,V2,Bajaj Pulsar RS200 ABS
+B147,M15,V2,Bajaj Avenger Street 220
+B148,M20,V2,Yamaha SZ-RR 150cc
+B149,M15,V2,Bajaj Pulsar 150cc
+B150,M4,V2,Honda CB Hornet 160R STD
+B151,M19,V2,Royal Enfield Bullet Electra 350cc
+B152,M22,V2,Harley-Davidson Iron 883
+B153,M4,V2,Honda CB Twister 110cc
+B154,M15,V2,Bajaj Pulsar RS200 ABS
+B155,M19,V2,Royal Enfield Classic 350cc-Redditch Edition Dual Disc
+B156,M20,V2,Yamaha FZ 150cc
+B157,M15,V2,Bajaj Pulsar 150cc
+B158,M19,V2,Royal Enfield Classic 350cc
+B159,M16,V2,Hero Splendor Plus 100cc
+B160,M22,V2,Harley-Davidson Street 750 ABS
+B161,M15,V2,Bajaj Platina 100cc
+B162,M21,V2,Suzuki Zeus 125cc
+B163,M21,V2,Suzuki Slingshot Plus 125cc
+B164,M15,V2,Bajaj Pulsar 150cc
+B165,M15,V2,Bajaj Avenger Street 220
+B166,M15,V2,Bajaj Avenger Cruise 220
+B167,M16,V2,Hero CD Deluxe 100cc
+B168,M20,V2,Yamaha Fazer 25 250cc
+B169,M17,V2,KTM RC 390cc
+B170,M17,V2,KTM Duke 200cc
+B171,M16,V2,Hero Passion Pro 100cc
+B172,M19,V2,Royal Enfield Bullet Electra 350cc
+B173,M15,V2,Bajaj Pulsar 150cc
+B174,M16,V2,Hero CD Deluxe 100cc
+B175,M4,V2,Honda CB Unicorn 160
+B176,M15,V2,Bajaj Pulsar NS200
+B177,M16,V2,Hero Passion Pro 100cc
+B178,M20,V2,Yamaha Fazer 150cc
+B179,M16,V2,Hero Super Splendor 125cc
+B180,M15,V2,Bajaj Pulsar RS200 ABS
+B181,M17,V2,KTM RC 390cc
+B182,M16,V2,Hero Passion Pro 100cc
+B183,M15,V2,Bajaj Pulsar 150cc
+B184,M21,V2,Suzuki Slingshot Plus 125cc
+B185,M19,V2,Royal Enfield Thunderbird 350cc
+B186,M15,V2,Bajaj Pulsar 150cc
+B187,M4,V2,Honda CBF Stunner 125cc
+B188,M17,V2,KTM Duke 390cc
+B189,M17,V2,KTM RC 200cc
+B190,M20,V2,Yamaha Fazer 25 250cc
+B191,M16,V2,Hero Glamour i3s 125cc
+B192,M16,V2,Hero Passion Pro 100cc
+B193,M15,V2,Bajaj Pulsar 150cc
+B194,M21,V2,Suzuki Slingshot Plus 125cc
+B195,M16,V2,Hero Passion Pro 100cc
+B196,M16,V2,Hero Passion 100cc
+B197,M16,V2,Hero Passion Pro 100cc
+B198,M19,V2,Royal Enfield Classic 500cc
+B199,M15,V2,Bajaj Pulsar 150cc
+B200,M22,V2,Harley-Davidson Street 750 ABS

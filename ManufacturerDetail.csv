@@ -1,0 +1,23 @@
+manufacturer_name,manufacturer_id,manufacturer_country,service_centers
+Maruti Suzuki,M1,Japan,1650
+Hyundai,M2,South Korea,1225
+Jeep,M3,United States of America,113
+Honda,M4,Japan,1103
+Toyota,M5,Japan,784
+Ford,M6,United States of America,94
+Renault,M7,France,183
+Volkswagen,M8,Germany,659
+Nissan,M9,Japan,153
+Kia,M10,South Korea,490
+Datsun,M11,Japan,29
+Tata,M12,India,1467
+Mahindra,M13,India,1372
+MG Motors,M14,United Kingdom,274
+Bajaj,M15,India,1189
+Hero,M16,India,1253
+KTM,M17,Austria,645
+TVS,M18,India,1397
+Royal Enfield,M19,India,1205
+Yamaha,M20,Japan,653
+Suzuki,M21,Japan,432
+Harley-Davidson,M22,United States of America,78
